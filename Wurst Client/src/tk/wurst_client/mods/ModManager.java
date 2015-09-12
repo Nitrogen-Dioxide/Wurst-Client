@@ -49,6 +49,7 @@ public class ModManager
 		addMod(new AutoSwordMod());
 		addMod(new AutoToolMod());
 		addMod(new AutoWalkMod());
+		addMod(new BarrierEspMod());
 		addMod(new BaseFinderMod());
 		addMod(new BlinkMod());
 		addMod(new BowAimbotMod());
