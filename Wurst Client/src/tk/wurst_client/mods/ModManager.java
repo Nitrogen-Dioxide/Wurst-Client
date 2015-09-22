@@ -1,5 +1,5 @@
 /*
- * Copyright © 2014 - 2015 Alexander01998 and contributors
+ * Copyright ï¿½ 2014 - 2015 Alexander01998 and contributors
  * All rights reserved.
  * 
  * This Source Code Form is subject to the terms of the Mozilla Public
@@ -49,6 +49,7 @@ public class ModManager
 		addMod(new AutoSwordMod());
 		addMod(new AutoToolMod());
 		addMod(new AutoWalkMod());
+		addMod(new BarrierEspMod());
 		addMod(new BaseFinderMod());
 		addMod(new BlinkMod());
 		addMod(new BowAimbotMod());
